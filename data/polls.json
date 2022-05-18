@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "createdDate": "2022-05-14T01:49:41.177Z",
+    "updatedDate": "2022-05-14T01:49:41.177Z",
+    "question": "What should I make for dinner Sunday?",
+    "options": [
+      { 
+        "option": 1,
+        "votes": 2
+      },
+      { 
+        "option": 2,
+        "votes": 4
+      },
+      { 
+        "option": 3,
+        "votes": 6
+      },
+      { 
+        "option": 4,
+        "votes": 8
+      }
+    ]
+  }
+]
